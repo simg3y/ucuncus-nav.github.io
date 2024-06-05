@@ -1,0 +1,39 @@
+#container{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+#sol_kapi{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    width: 1200px;
+    margin-top: -950px;
+}
+#sag_kapi{
+    align-items: center;
+    justify-content: center;
+    display: block;
+    width: 1200px;
+    margin-top: -500px;
+
+}
+#sol_agac{ 
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin-top: -700px;
+}
+#sag_agac{
+    display: block;
+    margin-top: -500px;
+}
+#cim{
+    display: block;
+}
+#yazi{
+    color: white;
+    position: absolute;
+    align-items:center;
+    justify-content: center;
+}
